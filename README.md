@@ -6,9 +6,14 @@ for kennesaw state university, first year scholars programme
 original pim simulator by samsung https://github.com/SAITPublic/PIMSimulator
 
 
-tested on **Devuan GNU/Linux 6 (excalibur) x86_64**
+tested on
+
+**Devuan GNU/Linux 6 (excalibur) x86_64**
+
 **processor:** i9-11900KF
+
 **memory:** 31.03 GiB
+
 **linux kernel:** 6.12.107+deb13-amd64
 
 # dependencies
