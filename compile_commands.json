@@ -27,8 +27,8 @@
       "main.o",
       "src/main.cpp"
     ],
-    "directory": "/home/t/Documents/github/quantum_circuit_simulation",
-    "file": "/home/t/Documents/github/quantum_circuit_simulation/src/main.cpp",
-    "output": "/home/t/Documents/github/quantum_circuit_simulation/main.o"
+    "directory": "/home/t/Documents/github/PIMQCS",
+    "file": "/home/t/Documents/github/PIMQCS/src/main.cpp",
+    "output": "/home/t/Documents/github/PIMQCS/main.o"
   }
 ]

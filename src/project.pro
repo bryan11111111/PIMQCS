@@ -12,6 +12,3 @@ INCLUDEPATH += \
 
 SOURCES += \
         src/main.cpp
-
-# no idea why i need to put FP16.cpp as well. weird.
-        
