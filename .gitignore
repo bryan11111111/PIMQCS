@@ -1,3 +1,7 @@
 .cache/
 .vscode/
 build/
+app
+compile_commands.json
+.gitattributes
+.gitignore
